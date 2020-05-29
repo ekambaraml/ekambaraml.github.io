@@ -1,0 +1,12 @@
+site_name: MachineLearning & AI Governance
+site_description: 'Machine Learning'
+site_author: 'Lakshmana Ekambaram'
+site_utrl: 'https://ekambaraml.github.io'
+
+# Copyright
+copyright: 'Copyright &copy; 2001 - 2022 Lakshmana Ekambaram'
+theme:
+  name: material
+  icon:
+    logo: material/library
+    repo: fontawesome/brands/git-alt
